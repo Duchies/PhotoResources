@@ -1,2 +1,2 @@
-# Photos For Apks 
-# just like drawable for apk 
+# Photos For Application
+- just like drawable for Application
